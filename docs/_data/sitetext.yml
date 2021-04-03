@@ -1,0 +1,73 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Welcome!
+    text: Let's Talk Data
+    button: Tell Me More
+    buttonlink: "#portfolio"
+
+  portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
+
+  services:
+    title: "Professional History"
+    text: "Experienced Data Scientist with six years of total experience working in the Information Technology and SaaS industry. Involved in building Data Solutions to business problems, and Project Management for end-to-end project delivery."
+    section: services
+    list:
+      - title: "Data Scientist"
+        desc: "Product Owner for a neural network IP that automates incident triage for a 98% reduction in investigation time. Transformed and deployed the neural network IP for new, data-ready customers within a six-week timeframe. Deployed a machine learning-enabled solution for optimizing client contracts."
+        icon: fas fa-brain #find more at https://fontawesome.com/icons
+      - title: "Data Engineer"
+        desc: "Built a prototype for an all-purpose data processing architecture using Python and SQL designed for centralizing disparate data sources across an organization. Created Python-based automations for handling human resource data from MS Excel for a 90% reduction in man-hours during audits. Upgraded analytics tools for monitoring Business Operations using SQL and integrated through Talend."
+        icon: fas fa-database
+      - title: "Project Manager"
+        desc: "Managed successful end-to-end deployment of multiple application enhancements and system upgrades across multiple project teams. Enhanced customer relationships through partnership building, risk management, and communication. Ensured all projects were compliant to ITIL Change and Release Management standards."
+        icon: fas fa-project-diagram
+        
+  team:
+    title: "Contact Me"
+    section: team
+    people:
+      - name: "Albertyn Carpio"
+        role: "albertyn.s-carpio@outlook.com"
+        image: "assets/img/fb photo.jpg"
+        social:
+          - url: https://facebook.com/albertyn.carpio
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com/in/albertyn-nicolle-carpio
+            icon: fab fa-linkedin-in
+          - url: https://github.com/albertyncarpio
+            icon: "fab fa-github"
+
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://github.com/raviriley/agency-jekyll-theme/
+        icon: "fab fa-github"
+      - url: https://fontawesome.com/icons
+        icon: "fab fa-fort-awesome-alt"
+      - url: https://thedatascientist.com/tips-tricks-neural-networks/cool_neural_network/
+        icon: "fas fa-image"
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
