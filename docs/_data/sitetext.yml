@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Under construction."
     section: portfolio
     closebutton: "Close Project"
 
