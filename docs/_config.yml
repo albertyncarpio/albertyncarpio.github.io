@@ -31,7 +31,7 @@ github_username:  albertyncarpio
 
 # Build settings
 #theme: jekyll-agency
-# remote_theme: raviriley/agency-jekyll-theme
+remote_theme: raviriley/agency-jekyll-theme
 
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
