@@ -29,7 +29,7 @@ url: "linkedin/in/albertyn-nicolle-carpio" # the base hostname & protocol for yo
 github_username:  albertyncarpio
 
 # Build settings
-theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
 plugins:
   - jekyll-feed
 
