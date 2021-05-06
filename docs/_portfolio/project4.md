@@ -1,13 +1,13 @@
 ---
 title: Cybersecurity is Everybody’s Business
 subtitle: Detecting and Identifying Cyberattacks through Network Traffic Data
-image: https://thumbs.dreamstime.com/z/cybersecurity-global-network-information-technology-security-services-internet-154742479.jpg
+image: https://cdn.pixabay.com/photo/2020/02/21/17/06/security-4868165_1280.jpg
 alt: Cybersecurity BDCC
 
 caption:
   title: Cybersecurity is Everybody’s Business
   subtitle: Detecting and Identifying Cyberattacks through Network Traffic Data
-  thumbnail: https://thumbs.dreamstime.com/z/cybersecurity-global-network-information-technology-security-services-internet-154742479.jpg
+  thumbnail: https://cdn.pixabay.com/photo/2020/02/21/17/06/security-4868165_1280.jpg
 ---
 In this age of the so-called digital transformation, the need to protect the digital becomes as relevant as the need to protect the physical. We lock on our new-found skills in cloud computing and big data to solve the compelling problem of cybersecurity.
 

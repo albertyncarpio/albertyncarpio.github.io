@@ -1,13 +1,13 @@
 ---
 title: Clustering Philippine Stocks based on Historical Price Movement
 subtitle: A Dynamic Approach to Stock Screening
-image: https://thumbs.dreamstime.com/z/financial-stock-market-price-ticker-shows-gains-losses-46702790.jpg
+image: https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 alt: Stocks clustering
 
 caption:
   title: Clustering Philippine Stocks based on Historical Price Movement
   subtitle: A Dynamic Approach to Stock Screening
-  thumbnail: https://thumbs.dreamstime.com/z/financial-stock-market-price-ticker-shows-gains-losses-46702790.jpg
+  thumbnail: https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 ---
 The common question when thinking about investing in the stock market is: What stock/s should I buy? After all, there is some uncertainty as to whether a stock would appreciate or depreciate. From a technical standpoint, this all boils down to stock movement. Therefore, in this project we explored clustering stocks based on their respective price movement.
 To answer this question, the team used historical daily trading information from 2008 to August 2020, as well as additional derived features, and ran a K-Medians clustering algorithm. From our experiments, four clusters emerged: the stocks with the highest returns and rising volume; volatile stocks with the highest average value turnover; the least volatile stocks with declining value turnover; and the stocks with the lowest return. Furthermore, we performed a Markov Chain analysis to calculate the probability of movement between clusters.
