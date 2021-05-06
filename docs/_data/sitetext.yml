@@ -41,7 +41,6 @@ en: &DEFAULT_EN
     title: "Contact Me"
     section: team
     people:
-      - name: ""
       - name: "Albertyn Carpio"
         role: "albertyn.s-carpio@outlook.com"
         image: "assets/img/fb photo.jpg"
@@ -54,7 +53,6 @@ en: &DEFAULT_EN
             icon: "fab fa-github"
           - url: https://albertyncarpio.github.io/resume
             icon: "fas fa-file-pdf"
-      - name: ""
 
 
   footer:
