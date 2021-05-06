@@ -13,5 +13,5 @@ With the recent finish of the 2020 American Presidential Elections, Americans st
 
 {:.list-inline}
 **Co-creators:**
-[Nico Aguila](https://www.linkedin.com/in/nico-aguila)
+[Nico Aguila,](https://www.linkedin.com/in/nico-aguila)
 [Nisarg Nigam](https://www.linkedin.com/in/nisargnigam)

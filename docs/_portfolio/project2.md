@@ -1,13 +1,13 @@
 ---
 title: Slicing through the Confusion between Good and Bad Fruit
 subtitle: An Application of Convolutional Neural Networks for Fruit Quality Classification
-image: https://images.pexels.com/photos/2611810/pexels-photo-2611810.jpeg
+image: https://images.pexels.com/photos/4077423/pexels-photo-4077423.jpeg
 alt: Fruit CNN
 
 caption:
   title: Slicing through the Confusion between Good and Bad Fruit
   subtitle: An Application of Convolutional Neural Networks for Fruit Quality Classification
-  thumbnail: https://images.pexels.com/photos/2611810/pexels-photo-2611810.jpeg
+  thumbnail: https://images.pexels.com/photos/4077423/pexels-photo-4077423.jpeg
 ---
 The Philippines is one of the top 10 fruit-producing countries in the world (van Rijswick, 2018). Despite this, farmers have the highest reported poverty incidence in the country at 31.6% (de Vera, 2020). So on the one hand, the fruit industry has a lot of business potential, yet at the same time the agricultural sector in general remains a key area for development. How then can machine learning technologies be used to revolutionize the fruit industry?
 In this study we demonstrate that machine learning and computer vision can be ‘taught’ to differentiate between different types of good and bad fruit. We use a convolutional neural network, and achieve an overall accuracy of 99%, and an average precision and recall across the 12 categories of also 99% on unseen data from the same dataset. To improve deployment in the Philippine context, it is
@@ -16,6 +16,6 @@ Possible applications of this technology would be: classifying fruit quality acc
 
 {:.list-inline}
 **Co-creators:**
-Ronald Dela Cruz
-[Michael Dorosan](https://www.linkedin.com/in/michaeldorosan)
-[Alfonso Limpo](https://www.linkedin.com/in/alfonsolimpo)
+Ronald Dela Cruz,
+[Michael Dorosan,](https://www.linkedin.com/in/michaeldorosan)
+[Alfonso Limpo,](https://www.linkedin.com/in/alfonsolimpo)

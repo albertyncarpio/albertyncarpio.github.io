@@ -17,5 +17,5 @@ We used two means of data augmentation using image processing: edge detection an
 
 {:.list-inline}
 **Co-creators:**
-[Rafael Madrigal](https://www.linkedin.com/in/raf-madrigal)
+[Rafael Madrigal,](https://www.linkedin.com/in/raf-madrigal)
 [Queenie Mendez](https://www.linkedin.com/in/queenie-lynly-mendez)

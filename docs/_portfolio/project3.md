@@ -15,7 +15,7 @@ Based on all these analyses, the main insight is that the best stocks are those 
 
 {:.list-inline}
 **Co-creators:**
-[Perry Ang](https://www.linkedin.com/in/perryang)
-[Carlo Antioquia](https://www.linkedin.com/in/carlo-antioquia)
-[Jason Dolorso](jasondolorso.github.io)
+[Perry Ang,](https://www.linkedin.com/in/perryang)
+[Carlo Antioquia,](https://www.linkedin.com/in/carlo-antioquia)
+[Jason Dolorso,](jasondolorso.github.io)
 [Chester Patalud](https://www.linkedin.com/in/chesterromelpatalud)

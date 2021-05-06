@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Professional History"
-    text: "Experienced Data Scientist with six years of total experience working in the Information Technology and SaaS industry. Involved in building Data Solutions to business problems, and Project Management for end-to-end project delivery."
+    text: "Experienced Data Scientist with six years of total experience working in the Information Technology and SaaS industry. <br>Involved in building Data Solutions to business problems, and Project Management for end-to-end project delivery."
     section: services
     list:
       - title: "Data Scientist"

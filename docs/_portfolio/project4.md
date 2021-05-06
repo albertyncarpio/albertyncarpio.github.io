@@ -17,6 +17,6 @@ Using a Random Forest Classifier, we had three experiments: threat detection, ne
 
 {:.list-inline}
 **Co-creators:**
-Ronald Dela Cruz
-[Michael Dorosan](https://www.linkedin.com/in/michaeldorosan)
-[Alfonso Limpo](https://www.linkedin.com/in/alfonsolimpo)
+Ronald Dela Cruz,
+[Michael Dorosan,](https://www.linkedin.com/in/michaeldorosan)
+[Alfonso Limpo,](https://www.linkedin.com/in/alfonsolimpo)
