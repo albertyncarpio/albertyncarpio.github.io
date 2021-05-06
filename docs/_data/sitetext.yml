@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Under construction."
+    text: "Previous projects."
     section: portfolio
     closebutton: "Close Project"
 
@@ -28,7 +28,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Data Scientist"
-        desc: "Product Owner for a neural network IP that automates incident triage for a 98% reduction in investigation time. Transformed and deployed the neural network IP for new, data-ready customers within a six-week timeframe. Deployed a machine learning-enabled solution for optimizing client contracts."
+        desc: "Product Owner for a neural network IP that automates incident triage for a 98% reduction in investigation time. Transformed and deployed the neural network IP for new, data-ready customers within a six-week timeframe. Deployed a machine learning-enabled data pipeline for optimizing client contracts."
         icon: fas fa-brain #find more at https://fontawesome.com/icons
       - title: "Data Engineer"
         desc: "Built a prototype for an all-purpose data processing architecture using Python and SQL designed for centralizing disparate data sources across an organization. Created Python-based automations for handling human resource data from MS Excel for a 90% reduction in man-hours during audits. Upgraded analytics tools for monitoring Business Operations using SQL and integrated through Talend."
@@ -36,11 +36,12 @@ en: &DEFAULT_EN
       - title: "Project Manager"
         desc: "Managed successful end-to-end deployment of multiple application enhancements and system upgrades across multiple project teams. Enhanced customer relationships through partnership building, risk management, and communication. Ensured all projects were compliant to ITIL Change and Release Management standards."
         icon: fas fa-project-diagram
-        
+
   team:
     title: "Contact Me"
     section: team
     people:
+      - name: ""
       - name: "Albertyn Carpio"
         role: "albertyn.s-carpio@outlook.com"
         image: "assets/img/fb photo.jpg"
@@ -51,6 +52,9 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/albertyncarpio
             icon: "fab fa-github"
+          - url: https://albertyncarpio.github.io/resume
+            icon: "fas fa-file-pdf"
+      - name: ""
 
 
   footer:

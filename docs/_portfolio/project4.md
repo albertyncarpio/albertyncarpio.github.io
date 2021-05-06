@@ -1,18 +1,22 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
-alt: 
+title: Cybersecurity is Everybody’s Business
+subtitle: Detecting and Identifying Cyberattacks through Network Traffic Data
+image: https://thumbs.dreamstime.com/z/cybersecurity-global-network-information-technology-security-services-internet-154742479.jpg
+alt: Cybersecurity BDCC
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Cybersecurity is Everybody’s Business
+  subtitle: Detecting and Identifying Cyberattacks through Network Traffic Data
+  thumbnail: https://thumbs.dreamstime.com/z/cybersecurity-global-network-information-technology-security-services-internet-154742479.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+In this age of the so-called digital transformation, the need to protect the digital becomes as relevant as the need to protect the physical. We lock on our new-found skills in cloud computing and big data to solve the compelling problem of cybersecurity.
+
+Our pursuit made use of the CSE-CIC-IDS2018 dataset which contains 79 features pertaining to network traffic information. The raw data of about 446 gigabytes of network logs were extracted, transformed, and loaded (ETL) into .csv format for easier handling. Each entry in this dataset corresponds to a traffic flow which is tagged as either benign or malicious. More specifically, malicious entries are labelled acccording to the attack type which falls under any of these six scenarios: Botnet, DDoS, DoS, Bruteforce, Infiltration, and Web Attacks.
+
+Using a Random Forest Classifier, we had three experiments: threat detection, network traffic type classifcation, and the 2-step detection and type classification approach. We found that a direct implementation of the multiclass classification (Approach B) to be the most efficient. Additionally, precision, recall, and f1-scores were highest using this approach.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
+**Co-creators:**
+Ronald Dela Cruz
+[Michael Dorosan](https://www.linkedin.com/in/michaeldorosan)
+[Alfonso Limpo](https://www.linkedin.com/in/alfonsolimpo)
