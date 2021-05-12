@@ -140,3 +140,45 @@ section#contact :-ms-input-placeholder { font-weight: 700; color: #ced4da; font-
 ul.social-buttons { margin-bottom: 0; }
 ul.social-buttons li a { font-size: 20px; line-height: 50px; display: block; width: 50px; height: 50px; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; color: white; border-radius: 100%; outline: none; background-color: #212529; }
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover { background-color: #fed136; }
+
+li.resume {
+  &:before {
+    content: '';
+    display: none;
+    position: absolute;
+    z-index: 9998;
+    top: 35px;
+    left: 15px;
+    width: 0;
+    height: 0;
+
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid rgba(0,0,0,.72);
+  }
+  &:after {
+    content: 'Right click. Save link.';
+    display: none;
+    position: absolute;
+    z-index: 9999;
+    top: 40px;
+    left: -37px;
+    width: 114px;
+    height: 36px;
+
+    color: #fff;
+    font-size: 10px;
+    line-height: 36px;
+    text-align: center;
+
+    background: rgba(0,0,0,.72);
+    border-radius: 3px;
+  }
+  &:hover {
+    background-color: #eee;
+
+    &:before &:after {
+      display: block;
+    }
+  }
+}
