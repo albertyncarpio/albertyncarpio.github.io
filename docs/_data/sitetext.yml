@@ -54,6 +54,9 @@ en: &DEFAULT_EN
           - url: https://albertyncarpio.github.io/resume
             icon: "fas fa-file-pdf"
 
+    about:
+      title: ""
+
 
   footer:
     legal: "Privacy Policy"
