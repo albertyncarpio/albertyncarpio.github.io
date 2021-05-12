@@ -51,7 +51,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/albertyncarpio
             icon: "fab fa-github"
-          - url: https://albertyncarpio.github.io/resume
+          - url: "https://albertyncarpio.github.io/resume/RESUME - Carpio, AN.pdf"
             icon: "fas fa-file-pdf"
 
     about:
